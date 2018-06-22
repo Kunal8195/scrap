@@ -1,4 +1,4 @@
-## To start the scaraper
+## To start the scraper
     npm install
     npm start
 
